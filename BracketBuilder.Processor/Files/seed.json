@@ -1,0 +1,20 @@
+{
+  "RegionTeamDataSet": [
+    {
+      "Name": "SOUTH",
+      "TeamNames": [ "Virginia", "texas", "Kentucky", "Miami", "Nevada", "Creighton", "Kansas St.", "Texas", "Loyola-Chi", "Davidson", "Buffalo", "Wright St", "Georgia St", "UMBC" ]
+    },
+    {
+      "Name": "WEST ",
+      "TeamNames": [ "Xavier", "N. Carolina", "Michigan", "Gonzaga", "Ohio St", "Houston", "Texas A&M", "Missouri", "Florida St.", "Providence", "San Diego St.", "S. Dak. St.", "UNC-Green", "Montana", "Lipscomb", "NCCU" ]
+    },
+    {
+      "Name": "EAST",
+      "TeamNames": [ "Virginia Tech", "Purdue", "Texas Tech", "Wichita St", "West Virginia", "Florida", "Arkansas", "Alabama", "Butler", "UCLA", "Murray State", "Marshall", "SF Austin", "CSFullerton", "RAD" ]
+    },
+    {
+      "Name": "MIDWEST",
+      "TeamNames": [ "Kansas", "Duke", "Michigan St", "Auburn", "Clemson", "TCU", "Rhode Island", "Seton Hall", "NC State", "Oklahoma", "ASU", "New Mexico State", "Charleston", "Bucknell", "Iona", "Penn" ]
+    }
+  ]
+}
